@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: net.javaguides.ems.EmsBackendApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.541 s - in net.javaguides.ems.EmsBackendApplicationTests
